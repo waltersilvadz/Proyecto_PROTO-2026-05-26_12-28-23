@@ -6685,7 +6685,7 @@ Transform:
   m_GameObject: {fileID: 810534624}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 13.076, y: 1.285, z: -0.16897}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8907,7 +8907,7 @@ Transform:
   m_GameObject: {fileID: 1136852986}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 13.076, y: 1.285, z: -0.16897}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15781,6 +15781,7 @@ MonoBehaviour:
   profundidadMinimaY: 0.5
   velocidadTraslacion: 4
   velocidadDescenso: 5
+  puntoAnclaje: {fileID: 755422271}
 --- !u!4 &1359834384 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 411612, guid: 0759e5b8616fa854dbb807a3ac19ec2b, type: 3}
